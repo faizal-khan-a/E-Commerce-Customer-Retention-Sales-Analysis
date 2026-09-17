@@ -302,25 +302,25 @@ Provides a concise management-level overview of:
 
 ## Page 1 — Executive Sales Overview
 
-![Executive Sales Overview](Page1_Overview.png)
+![Executive Sales Overview](Dashboard_Screenshots/Page1_Overview.png)
 
 ---
 
 ## Page 2 — Customer & Retention Analysis
 
-![Customer & Retention Analysis](Page2_Customer_Retention.png)
+![Customer & Retention Analysis](Dashboard_Screenshots/Page2_Customer_Retention.png)
 
 ---
 
 ## Page 3 — Product & Sales Performance Analysis
 
-![Product & Sales Performance Analysis](Page3_Product_Analysis.png)
+![Product & Sales Performance Analysis](Dashboard_Screenshots/Page3_Product_Analysis.png)
 
 ---
 
 ## Page 4 — Executive Summary
 
-![Executive Summary](Page4_RFM_Analysis.png)
+![Executive Summary](Dashboard_Screenshots/Page4_RFM_Analysis.png)
 
 # 🔑 Key Business Insights
 
